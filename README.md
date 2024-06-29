@@ -1,2 +1,2 @@
-# ML-Algorithms
-Implementations of different types of machine learning algorithms
+# RL-Algorithms
+My implementations of different types of reinforcement learning algorithms
