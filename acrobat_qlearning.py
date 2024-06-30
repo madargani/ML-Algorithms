@@ -4,7 +4,7 @@ import gymnasium as gym
 
 NUM_EPS = 500
 
-env = gym.make('CartPole-v1')
+env = gym.make('Acrobot-v1')
 
 # pos, vel, ang, angVel
 state_bounds = ((-2.4, 2.4), (-4.8, 4.8), (-.21, .21), (-1, 1))
